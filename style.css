@@ -1,0 +1,29 @@
+.{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+    
+}
+.paragraph{
+    border-style:solid;
+    border-color: rgb(168, 69, 16);
+    margin: 10px;
+    padding: 5px;
+    text-align: justify;
+    width: 100%;
+}
+div{
+    border-style:solid;
+    width: 25%;
+    border-color: rgb(67, 248, 175);
+    margin: 10px;
+    padding: 5px;
+    text-align: justify;
+    float: left;
+}
+ nav{
+    background-color: bisque;
+    float: left;
+    font-weight: 600;
+    padding: 20px;
+ }
